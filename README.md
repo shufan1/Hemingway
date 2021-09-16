@@ -17,4 +17,4 @@ response = client.detect_sentiment(
 )
 ```
 
-Grab text into string
+Grab text into string:
