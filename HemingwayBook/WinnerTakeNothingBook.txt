@@ -1,106 +1,7 @@
 
-* A Project Gutenberg Canada Ebook *
-
-This ebook is made available at no cost and with very few
-restrictions. These restrictions apply only if (1) you make
-a change in the ebook (other than alteration for different
-display devices), or (2) you are making commercial use of
-the ebook. If either of these conditions applies, please
-check gutenberg.ca/links/licence.html before proceeding.
-
-This work is in the Canadian public domain, but may be
-under copyright in some countries. If you live outside Canada,
-check your country's copyright laws. IF THE BOOK IS UNDER
-COPYRIGHT IN YOUR COUNTRY, DO NOT DOWNLOAD
-OR REDISTRIBUTE THIS FILE.
-
-Title: Winner Take Nothing
-Author: Hemingway, Ernest (1899-1961)
-Date of first publication: 1933
-Edition used as base for this ebook:
-   New York and London: Charles Scribner's Sons
-   [Undated, but the pagination is the same as in the 1933
-   first edition, suggesting that if this is a reprint the
-   plates from the first edition were used.]
-Date first posted: 12 June 2015
-Date last updated: 12 June 2015
-Project Gutenberg Canada ebook #1253
-
-This ebook was produced by
-Marcia Brooks, Mark Akrigg, Paulina Chin
-& the Online Distributed Proofreading Canada Team
-at http://www.pgdpcanada.net
 
 
-PUBLISHER'S NOTE
-
-Italics in the original printed edition are indicated _thus_.
-
-Obvious typographical errors have been silently corrected.
-Inconsistencies in hyphenation, spelling and punctuation
-have been retained.
-
-As part of the conversion of the book to its new digital
-format, we have made certain minor adjustments in its layout.
-
-
-
-
-
-
-WINNER TAKE NOTHING
-
-by Ernest Hemingway
-
-
-
-
-"Unlike all other forms of lutte or combat the conditions are
-that the winner shall take nothing; neither his ease, nor his
-pleasure, nor any notions of glory; nor, if he win far enough,
-shall there be any reward within himself."
-
-
-
-
-
-
-"The Gambler, the Nun, and the Radio"
-was first published under the title,
-"Give Us A Prescription, Doctor"
-
-
-
-
-
-To A. MacLeish
-
-
-
-
-
-     CONTENTS
-
-         AFTER THE STORM
-         A CLEAN, WELL-LIGHTED PLACE
-         THE LIGHT OF THE WORLD
-         GOD REST YOU MERRY, GENTLEMEN
-         THE SEA CHANGE
-         A WAY YOU'LL NEVER BE
-         THE MOTHER OF A QUEEN
-         ONE READER WRITES
-         HOMAGE TO SWITZERLAND
-         A DAY'S WAIT
-         A NATURAL HISTORY OF THE DEAD
-         WINE OF WYOMING
-         THE GAMBLER, THE NUN, AND THE RADIO
-         FATHERS AND SONS
-
-
-
-
-
-                            AFTER THE STORM
+                      AFTER THE STORM
 
 
 It wasn't about anything, something about making punch, and then we
@@ -5621,10 +5522,3 @@ the ranch."
 grandfather."
 
 "We'll have to go," Nick said. "I can see we'll have to go."
-
-
-
-
-
-
-[End of Winner Take Nothing, by Ernest Hemingway]
