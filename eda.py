@@ -1,15 +1,18 @@
 import boto3
-from pathlib import Path
+from bson import json_util
+import json
 
 comprehend = boto3.client("comprehend")
 # oms_text = Path('HemingwayBook/OldManSeaBook.txt').read_text()[:3000]
 # response = client.detect_sentiment(Text=oms_text,LanguageCode='en')
 # print(response)
-number_of_topics = 3
-input_data_config = "s3://aws-topic-modeling/input/input.txt"
+number_of_topics = 15
+#input_s3_url= "s3://aws-topic-modeling/input/input.txt"
+input_s3_url="s3://aws-topic-modeling/input/input_MWW.txt"
+input_s3_url="s3://aws-topic-modeling/input/input_SAR.txt"
 input_doc_format = "ONE_DOC_PER_LINE"
-output_data_config = ""
-data_access_role_arn = "s3://aws-topic-modeling/output/"
+output_s3_url= "s3://aws-topic-modeling/output/"
+data_access_role_arn = "arn:aws:iam::740656944786:role/service-role/AmazonComprehendServiceRole-inandout2"
 
 input_data_config = {"S3Uri": input_s3_url, "InputFormat": input_doc_format}
 output_data_config = {"S3Uri": output_s3_url}

@@ -1,11 +1,11 @@
 
-with open("HemingwayBook/WinnerTakeNothingBook.txt","r") as f:
+with open("HemingwayBook/SunAlsoRisesBook.txt","r") as f:
     contents = f .read()
     
 stories = contents.split('\n\n\n\n') # split file by chapter
 
 
-outputfile = open("input.txt", "w")
+outputfile = open("input_SAR.txt", "w")
 
 chunck_texts = []
 for story in stories:
