@@ -6,9 +6,9 @@ comprehend = boto3.client("comprehend")
 # oms_text = Path('HemingwayBook/OldManSeaBook.txt').read_text()[:3000]
 # response = client.detect_sentiment(Text=oms_text,LanguageCode='en')
 # print(response)
-number_of_topics = 15
+number_of_topics = 20 #using 30 seems bad
 #input_s3_url= "s3://aws-topic-modeling/input/input.txt"
-input_s3_url="s3://aws-topic-modeling/input/input_MWW.txt"
+#input_s3_url="s3://aws-topic-modeling/input/input_MWW.txt"
 input_s3_url="s3://aws-topic-modeling/input/input_SAR.txt"
 input_doc_format = "ONE_DOC_PER_LINE"
 output_s3_url= "s3://aws-topic-modeling/output/"
