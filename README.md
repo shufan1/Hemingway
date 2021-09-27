@@ -1,20 +1,7 @@
-# NLP analysis on Hemingway
-# EDA
+# Topic Modeling on Hemingway's The Sun Also Rises with AWS Comprehend
 
-use AWS comprehend by boto3 and ipython
 
-```python
-import boto3
-client = boto3.client('comprehend')
+I broke down Hemingway's novel The Sun Also Rises into smaller chucks of text by grouping every 6 lines together in a python script. The script write each smaller chunk of texts as one line in an input text file ("inputSAR.txt"). This input file was uploaded to an S3 bucket (folder). AWS Comprehend suggested to have at least 1000 documents and each document with at least 3 lines for topic modeing with LDA. In boto3, Amazon Comprehend was called and NLP analysis job for topic modeling was created. The output is sent to a designated S3 bucket folder. The output includes two csv files, one lists the topic proportion for each text and another one gives the word proportion for each topic. Then I used Quicksights to visualize the results. 
 
-```
 
-Do something like this for sentiment analysis:
-```
-response = client.detect_sentiment(
-    Text='string',
-    LanguageCode='en'|'es'|'fr'|'de'|'it'|'pt'|'ar'|'hi'|'ja'|'ko'|'zh'|'zh-TW'
-)
-```
-
-Grab text into string:
+The most popular topic is Topic 1, 2, 5 and 4. 
